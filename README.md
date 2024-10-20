@@ -1,6 +1,6 @@
 # Работа с базами данных
 
-✏️ В рамках модуля я познакомилась с типами БД и СУБД, науичилась отправлять запросы в MySQL Workbench и DBeaver, а также поработала с NoSQL БД.
+✏️ В рамках модуля я познакомилась с типами БД и СУБД, научилась отправлять запросы в MySQL Workbench и DBeaver, а также поработала с NoSQL БД.
 
 [MySQL: SELECT запросы, агрегатные функции](https://docs.google.com/spreadsheets/d/147q-61W_Ub7bo-FrXSAb0wEU8YwdrCiAD0g-tXu740E/edit?usp=sharing)
 
